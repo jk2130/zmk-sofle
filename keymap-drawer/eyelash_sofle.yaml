@@ -220,8 +220,8 @@ layers:
   - KP 8
   - KP 7
   - +
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - _
+  - +
   - '&mkp MB2'
   - Ctl+F8
   - Ctl+Sft+F3
@@ -246,7 +246,7 @@ layers:
   - KP 2
   - KP 1
   - '*'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: \, s: '|'}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {type: held}
