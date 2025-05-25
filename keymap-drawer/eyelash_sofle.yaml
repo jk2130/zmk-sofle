@@ -53,9 +53,9 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - MUTE
+  - PLAY PAUSE
   - '3'
-  - $$mdi:apple-keyboard-command$$
+  - {t: Sft+Ctl+F4, h: '$$mdi:apple-keyboard-command$$'}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - {t: F2, h: '$$mdi:keyboard-return$$'}
@@ -235,7 +235,7 @@ layers:
   - {t: '-', s: _}
   - F11
   - F12
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-caps$$
   - Ctl+L
   - Ctl+M
   - Ctl+N
@@ -248,7 +248,7 @@ layers:
   - '*'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - MUTE2
+  - MUTE
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
