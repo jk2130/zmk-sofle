@@ -52,7 +52,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:backspace-reverse-outline$$
   - $$mdi:apple-keyboard-caps$$
   - '3'
   - $$mdi:apple-keyboard-command$$
@@ -64,7 +64,7 @@ layers:
   - $$mdi:keyboard-space$$
   - '2'
   - layer1
-  - $$mdi:backspace-reverse-outline$$
+  - '3'
   layer1:
   - {t: '`', s: '~'}
   - F1
@@ -259,4 +259,4 @@ layers:
   - KP 0
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: /, s: '?'}
+  - {t: /, s: '?', type: held alternate}
