@@ -55,7 +55,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - PLAY PAUSE
   - '3'
-  - {t: Sft+Ctl+F4, h: '$$mdi:apple-keyboard-command$$'}
+  - {t: '$$mdi:apple-keyboard-command$$', h: Ctl+Sft+F4}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - {t: F2, h: '$$mdi:keyboard-return$$'}
