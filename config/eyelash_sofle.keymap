@@ -84,7 +84,7 @@
 &kp LS(F3)  &kp F1          &kp F2          &kp F3          &kp F4          &kp F5            &rgb_ug RGB_BRI  &kp F6           &kp F7           &kp F8           &kp F9     &kp F10         &trans
 &mkp MCLK   &kp LS(LC(F6))  &kp LS(F7)      &kp LS(LC(F7))  &kp LC(F6)      &kp P             &rgb_ug RGB_BRD  &kp KP_NUMBER_9  &kp KP_NUMBER_8  &kp KP_NUMBER_7  &kp PLUS   &kp UNDERSCORE  &kp PLUS
 &mkp MB2    &kp LC(F8)      &kp LC(LS(F3))  &kp LC(F7)      &kp LS(F3)      &kp J             &rgb_ug RGB_EFF  &kp KP_NUMBER_6  &kp KP_NUMBER_5  &kp KP_NUMBER_4  &kp MINUS  &kp F11         &kp F12
-&kp CAPS    &kp LC(L)       &kp LC(M)       &kp LC(N)       &kp LC(K)       &kp H             &rgb_ug RGB_EFR  &kp KP_NUMBER_3  &kp KP_NUMBER_2  &kp KP_NUMBER_1  &kp ASTRK  &kp BACKSLASH   &trans
+&kp M       &kp LC(L)       &kp LC(M)       &kp LC(N)       &kp LC(K)       &kp H             &rgb_ug RGB_EFR  &kp KP_NUMBER_3  &kp KP_NUMBER_2  &kp KP_NUMBER_1  &kp ASTRK  &kp BACKSLASH   &trans
 &kp C_MUTE  &trans          &trans          &kp F5          &kp LC(LS(F5))  &kp LS(LC(F4))    &rgb_ug RGB_TOG  &trans           &kp KP_NUMBER_0  &trans           &trans     &kp SLASH
             >;
 
