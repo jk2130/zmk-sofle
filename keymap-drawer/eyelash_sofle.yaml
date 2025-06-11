@@ -224,9 +224,9 @@ layers:
   - +
   - '&mkp MB2'
   - Ctl+F8
-  - Ctl+Sft+F3
+  - Ctl+Sft+F8
   - Ctl+F7
-  - Sft+F3
+  - Sft+F8
   - J
   - RGB EFF
   - KP 6
@@ -250,7 +250,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:volume-off$$
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - Sft+Ctl+F9
   - F5
   - Ctl+Sft+F5
   - Sft+Ctl+F4
@@ -259,4 +259,4 @@ layers:
   - KP 0
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: /, s: '?', type: held alternate}
+  - {t: KP DIVIDE, type: held alternate}
